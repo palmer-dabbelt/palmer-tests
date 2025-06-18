@@ -1,2 +1,2 @@
-bin_PROGRAMS = rtm-futex
-rtm_futex_SOURCES = rtm-futex.c
+bin_PROGRAMS = palmer-tests-rtm-futex
+palmer_tests_rtm_futex_SOURCES = rtm-futex.c
